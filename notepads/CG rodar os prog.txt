@@ -1,0 +1,3 @@
+g++ testImage01.cpp Image.cpp -o saida.exe
+
+./saida.exe

@@ -1,0 +1,10 @@
+a.out
+*.o
+*.out
+*.a
+build
+bin
+*.swp
+.vscode
+anim
+output.png
